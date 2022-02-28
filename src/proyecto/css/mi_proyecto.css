@@ -1,0 +1,8 @@
+body {
+    padding-top: 80px;
+    background-color: #d4e1cf;
+}
+
+nav .navbar-nav li a{
+  color: black !important;
+}
